@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//Luisamnh.github.io/curso-react-intro/build/static/css/main.bbce1e86.css",
-    "main.js": "//Luisamnh.github.io/curso-react-intro/build/static/js/main.91a947fe.js",
-    "index.html": "//Luisamnh.github.io/curso-react-intro/build/index.html",
-    "static/media/delete.svg": "//Luisamnh.github.io/curso-react-intro/build/static/media/delete.f8e04b980f4a347b447ca1bb82768b46.svg",
-    "static/media/check.svg": "//Luisamnh.github.io/curso-react-intro/build/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
-    "main.bbce1e86.css.map": "//Luisamnh.github.io/curso-react-intro/build/static/css/main.bbce1e86.css.map",
-    "main.91a947fe.js.map": "//Luisamnh.github.io/curso-react-intro/build/static/js/main.91a947fe.js.map"
+    "main.css": "//Luisamnh.github.io/curso-react/build/static/css/main.bbce1e86.css",
+    "main.js": "//Luisamnh.github.io/curso-react/build/static/js/main.cd1e4300.js",
+    "index.html": "//Luisamnh.github.io/curso-react/build/index.html",
+    "static/media/delete.svg": "//Luisamnh.github.io/curso-react/build/static/media/delete.f8e04b980f4a347b447ca1bb82768b46.svg",
+    "static/media/check.svg": "//Luisamnh.github.io/curso-react/build/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.bbce1e86.css.map": "//Luisamnh.github.io/curso-react/build/static/css/main.bbce1e86.css.map",
+    "main.cd1e4300.js.map": "//Luisamnh.github.io/curso-react/build/static/js/main.cd1e4300.js.map"
   },
   "entrypoints": [
     "static/css/main.bbce1e86.css",
-    "static/js/main.91a947fe.js"
+    "static/js/main.cd1e4300.js"
   ]
 }
