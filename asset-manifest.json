@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//github.com/Luisamnh/curso-react-intro/build/static/css/main.bbce1e86.css",
+    "main.js": "//github.com/Luisamnh/curso-react-intro/build/static/js/main.02b221ab.js",
+    "index.html": "//github.com/Luisamnh/curso-react-intro/build/index.html",
+    "static/media/delete.svg": "//github.com/Luisamnh/curso-react-intro/build/static/media/delete.f8e04b980f4a347b447ca1bb82768b46.svg",
+    "static/media/check.svg": "//github.com/Luisamnh/curso-react-intro/build/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.bbce1e86.css.map": "//github.com/Luisamnh/curso-react-intro/build/static/css/main.bbce1e86.css.map",
+    "main.02b221ab.js.map": "//github.com/Luisamnh/curso-react-intro/build/static/js/main.02b221ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbce1e86.css",
+    "static/js/main.02b221ab.js"
+  ]
+}
